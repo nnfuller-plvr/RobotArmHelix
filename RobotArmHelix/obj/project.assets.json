@@ -1,0 +1,202 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "HelixToolkit/2.20.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.20.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.20.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win": {
+      "HelixToolkit/2.20.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.20.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.20.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x64": {
+      "HelixToolkit/2.20.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.20.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.20.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x86": {
+      "HelixToolkit/2.20.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.20.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.20.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelixToolkit/2.20.0": {
+      "sha512": "vVdihGxdPJoy+zq8Lp/HE+V3a2wTbtFttmxOmGIp/ZY0XV1ODQmpmQfh7GxILuvD6x8I6lILBTq5fTcbpGh0uw==",
+      "type": "package",
+      "path": "helixtoolkit/2.20.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AUTHORS",
+        "CONTRIBUTORS",
+        "LICENSE",
+        "README.md",
+        "helixtoolkit.2.20.0.nupkg.sha512",
+        "helixtoolkit.nuspec",
+        "helixtoolkit.png",
+        "lib/netstandard1.1/HelixToolkit.dll",
+        "lib/netstandard1.1/HelixToolkit.xml"
+      ]
+    },
+    "HelixToolkit.Wpf/2.20.0": {
+      "sha512": "k2n/7y5PSbBVvwz855BMi/N9zTLnPE4d3DVv8NsUzmZ/Aw+kLrbLnkOgvVpm8xu8ikTe2obsbKMXZ8y7c/23yQ==",
+      "type": "package",
+      "path": "helixtoolkit.wpf/2.20.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AUTHORS",
+        "CONTRIBUTORS",
+        "LICENSE",
+        "README.md",
+        "helixtoolkit.png",
+        "helixtoolkit.wpf.2.20.0.nupkg.sha512",
+        "helixtoolkit.wpf.nuspec",
+        "lib/net45/HelixToolkit.Wpf.XML",
+        "lib/net45/HelixToolkit.Wpf.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "HelixToolkit >= 2.20.0",
+      "HelixToolkit.Wpf >= 2.20.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nathan Fuller\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Dev\\RobotArmHelix\\RobotArmHelix\\RobotArmHelix.csproj",
+      "projectName": "RobotArmHelix",
+      "projectPath": "C:\\Dev\\RobotArmHelix\\RobotArmHelix\\RobotArmHelix.csproj",
+      "packagesPath": "C:\\Users\\Nathan Fuller\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\RobotArmHelix\\RobotArmHelix\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Nathan Fuller\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "dependencies": {
+          "HelixToolkit": {
+            "target": "Package",
+            "version": "[2.20.0, )"
+          },
+          "HelixToolkit.Wpf": {
+            "target": "Package",
+            "version": "[2.20.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

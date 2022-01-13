@@ -16,3 +16,7 @@ D:\Software\VS_Workspace\RobotArm\RobotArmHelix\RobotArmHelix\bin\Debug\HelixToo
 D:\Software\VS_Workspace\RobotArm\RobotArmHelix\RobotArmHelix\obj\Debug\RobotArmHelix.exe
 D:\Software\VS_Workspace\RobotArm\RobotArmHelix\RobotArmHelix\obj\Debug\RobotArmHelix.pdb
 D:\Software\VS_Workspace\RobotArm\RobotArmHelix\RobotArmHelix\obj\Debug\RobotArmHelix_Content.g.cs
+C:\Dev\RobotArmHelix\RobotArmHelix\obj\Debug\RobotArmHelix.csproj.AssemblyReference.cache
+C:\Dev\RobotArmHelix\RobotArmHelix\obj\Debug\App.g.cs
+C:\Dev\RobotArmHelix\RobotArmHelix\obj\Debug\RobotArmHelix_Content.g.cs
+C:\Dev\RobotArmHelix\RobotArmHelix\obj\Debug\RobotArmHelix_MarkupCompile.cache

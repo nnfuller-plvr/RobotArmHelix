@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKS9b+WGog/aQpzVfi+8UP1zafdDWjRYRg/9Gpnh3+Q6dRGrO/DDR+n7EIWZIe92FzIw83X2iofW3AMdvI6PCA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\RobotArmHelix\\RobotArmHelix\\RobotArmHelix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan Fuller\\.nuget\\packages\\helixtoolkit\\2.20.0\\helixtoolkit.2.20.0.nupkg.sha512",
+    "C:\\Users\\Nathan Fuller\\.nuget\\packages\\helixtoolkit.wpf\\2.20.0\\helixtoolkit.wpf.2.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
