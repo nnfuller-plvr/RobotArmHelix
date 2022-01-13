@@ -64,7 +64,7 @@ namespace RobotArmHelix
         string basePath = "";
         ModelVisual3D visual;
         double LearningRate = 0.01;
-        double SamplingDistance = 0.15;
+        double SamplingDistance = .15;
         double DistanceThreshold = 20;
         //provides render to model3d objects
         ModelVisual3D RoboticArm = new ModelVisual3D();
